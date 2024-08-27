@@ -1,0 +1,12 @@
+﻿
+<div class="content-form">
+    <h3>Yorum Yap</h3>
+    <form  method="post">
+        <input type="hidden" name="Blogid" placeholder="blogid" value="@ViewBag.blogiddegeri" />
+        <input type="text" name="KullaniciAdi" placeholder="Kullanıcı Adı" required />
+        <input type="text" name="Mail" placeholder="Email" required />
+        <textarea name="Yorum" placeholder="Yorum"></textarea>
+
+        <input type="submit" value="GÖNDER" />
+    </form>
+</div>

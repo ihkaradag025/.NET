@@ -1,0 +1,40 @@
+﻿@model TravelTripProje.Models.Siniflar.Blog
+@{
+    ViewBag.Title = "BlogGetir";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Blog Güncelleme Sayfası</h2>
+<br />
+@using (Html.BeginForm("BlogGuncelle", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    @*@Html.AntiForgeryToken() ifadesi, ASP.NET MVC ve ASP.NET Core MVC uygulamalarında kullanılan bir güvenlik özelliğidir. Bu token, Cross-Site Request Forgery (CSRF) saldırılarına karşı koruma sağlamak için kullanılır. CSRF saldırıları, kötü niyetli sitelerin kullanıcıların oturumları üzerinden yetkisiz işlemler yapmasını hedefler.*@
+
+    @Html.LabelFor(x => x.BlogId)
+    @Html.TextBoxFor(x => x.BlogId, new { @class = "form-control", @readonly = "readonly" })
+    <br />
+    @Html.LabelFor(x => x.Baslik)
+    @Html.TextBoxFor(x => x.Baslik, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Tarih)
+    @Html.TextBoxFor(x => x.Tarih, new { @class = "form-control" })
+    <br />
+    <label for="curl" class="control-label col-lg-2">Önceki Resim</label>
+    <img src="@Model.BlogImage" width="200" height="200" alt="Bloğa ait resim" />
+
+    <br />
+
+    @Html.LabelFor(x => x.BlogImage)
+
+    @*@Html.TextBoxFor(x => x.BlogImage, new { @class = "form-control" })*@
+
+    <input type="file" name="BlogImage" class="form-control" placeholder="SBlog Resim" />
+    <br />
+    @Html.LabelFor(x => x.Aciklama)
+    @Html.TextAreaFor(x => x.Aciklama, 15, 1, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">Blog Güncelle</button>
+}
+

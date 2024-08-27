@@ -1,0 +1,54 @@
+﻿@model List<TravelTripProje.Models.Siniflar.Blog>
+
+@{
+    Layout = null;
+}
+<div class="con-bot">
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        if (i < 2)
+        {
+            // İlk iki kayıt için
+            <div class="left">
+                <div class="bot-left" style="width:265px; height:155px;">
+                    <img src="@Model[i].BlogImage" alt="" style="width:265px; height:155px;" />
+                </div>
+                <div class="left-text">
+                    <h4>@Model[i].Baslik</h4>
+                    <span class="doller">@Model[i].Tarih.ToString("dd.MM.yyyy")</span>
+                    <p>
+                        @if (Model[i].Aciklama.Length < 100)
+                        {
+                            @Model[i].Aciklama }
+                        else
+                        {
+                            @Html.Raw(Model[i].Aciklama.Substring(0, 75))}
+                    </p>
+                    <p><a href="/Blog/BlogDetay/@Model[i].BlogId"><span class="read">Okumaya Devam Et>></span></a></p>
+                </div>
+            </div>
+        }
+        else
+        {
+            // Son kayıt için
+            <div class="right">
+                <div class="bot-left" style="width:265px; height:155px;">
+                    <img src="@Model[i].BlogImage" alt="" style="width:265px; height:155px;" />
+                </div>
+                <div class="left-text">
+                    <h4>@Model[i].Baslik</h4>
+                    <span class="doller">@Model[i].Tarih.ToString("dd.MM.yyyy")</span>
+                    <p>
+                        @if (Model[i].Aciklama.Length < 100)
+                        {
+                            @Model[i].Aciklama }
+                        else
+                        {
+                            @Html.Raw(Model[i].Aciklama.Substring(0, 75))}
+                    </p>
+                    <p><a href="/Blog/BlogDetay/@Model[i].BlogId"><span class="read">Okumaya Devam Et>></span></a></p>
+                </div>
+            </div>}
+    }
+    <div class="clear"></div>
+</div>

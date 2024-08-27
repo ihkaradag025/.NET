@@ -1,0 +1,64 @@
+﻿
+@model List<TravelTripProje.Models.Siniflar.Blog>
+
+@{
+    Layout = null;
+}
+
+<div class="padding1">
+    <h4>Our Best Places</h4>
+
+
+    <div class="box-left">
+        @for (int i = 0; i < 3; i++)
+        {
+            <div class="bot-img">
+                <img src="@Model[i].BlogImage" alt="" />
+            </div>
+            <div class="bot-desc">
+                <p>
+                    @if (Model[i].Aciklama.Length < 100)
+                    {
+                        @Model[i].Aciklama }
+                    else
+                    {
+                        @Html.Raw(Model[i].Aciklama.Substring(0, 75))}
+                </p>
+            </div>
+            <div class="clear"></div>
+        }
+    </div>
+
+
+
+    @*Sonraki 3 kayıt için*@
+
+   <div class="box1-left">
+        @for (int i = 3; i < 6; i++)
+        {
+            <div class="bot-img" style="width:100px; height:70px;">
+                <img src="@Model[i].BlogImage" alt="" style="width:100px; height:70px;" />
+            </div>
+            <div class="bot-desc1">
+                <p>
+                    @if (Model[i].Aciklama.Length < 100)
+                    {
+                        @Model[i].Aciklama }
+                    else
+                    {
+                        @Html.Raw(Model[i].Aciklama.Substring(0, 50))}
+                </p>
+            </div>
+            <div class="clear"></div>
+        }
+    </div>
+
+
+
+
+</div>
+
+
+
+
+

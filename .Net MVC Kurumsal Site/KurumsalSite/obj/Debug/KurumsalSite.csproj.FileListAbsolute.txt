@@ -1,0 +1,124 @@
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\KurumsalSite.dll.config
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\KurumsalSite.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\KurumsalSite.pdb
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\csc.exe
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\csc.exe.config
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\csc.rsp
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\csi.exe
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\csi.exe.config
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\csi.rsp
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Buffers.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Collections.Immutable.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Memory.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Numerics.Vectors.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\vbc.exe
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\vbc.exe.config
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\vbc.rsp
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\VBCSCompiler.exe
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\VBCSCompiler.exe.config
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\Microsoft.Web.Infrastructure.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.Helpers.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.Mvc.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.Razor.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.WebPages.Deployment.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.WebPages.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.WebPages.Razor.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.Helpers.xml
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.Mvc.xml
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.Razor.xml
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.WebPages.xml
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.WebPages.Deployment.xml
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.WebPages.Razor.xml
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\obj\Debug\KurumsalSite.csproj.AssemblyReference.cache
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\obj\Debug\KurumsalSite.csproj.CoreCompileInputs.cache
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\obj\Debug\KurumsalSite.csproj.CopyComplete
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\obj\Debug\KurumsalSite.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\obj\Debug\KurumsalSite.pdb
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\EntityFramework.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\EntityFramework.SqlServer.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\EntityFramework.xml
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\EntityFramework.SqlServer.xml
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\PagedList.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\PagedList.Mvc.dll
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\PagedList.xml
+E:\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\PagedList.Mvc.xml
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\KurumsalSite.dll.config
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\KurumsalSite.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\KurumsalSite.pdb
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\csc.exe
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\csc.exe.config
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\csc.rsp
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\csi.exe
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\csi.exe.config
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\csi.rsp
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.Managed.Core.targets
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Buffers.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Collections.Immutable.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Memory.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Numerics.Vectors.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Reflection.Metadata.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\vbc.exe
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\vbc.exe.config
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\vbc.rsp
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\VBCSCompiler.exe
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\roslyn\VBCSCompiler.exe.config
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\EntityFramework.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\EntityFramework.SqlServer.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\Microsoft.Web.Infrastructure.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\PagedList.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\PagedList.Mvc.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.Helpers.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.Mvc.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.Razor.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.WebPages.Deployment.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.WebPages.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.WebPages.Razor.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\EntityFramework.xml
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\EntityFramework.SqlServer.xml
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\PagedList.xml
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\PagedList.Mvc.xml
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.Helpers.xml
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.Mvc.xml
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.Razor.xml
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.WebPages.xml
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.WebPages.Deployment.xml
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\bin\System.Web.WebPages.Razor.xml
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\obj\Debug\KurumsalSite.csproj.AssemblyReference.cache
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\obj\Debug\KurumsalSite.csproj.CoreCompileInputs.cache
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\obj\Debug\KurumsalSite.csproj.CopyComplete
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\obj\Debug\KurumsalSite.dll
+E:\.NET Öğrenme çalışmaları\Mustafa Sağlam .Net MVC Kurumsal site örnek\KurumsalSite\obj\Debug\KurumsalSite.pdb

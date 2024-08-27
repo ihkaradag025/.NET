@@ -1,0 +1,40 @@
+﻿@model List<TravelTripProje.Models.Siniflar.Yorumlar>
+@{
+    ViewBag.Title = "YorumListesi";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yorum Listesi</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Yorum ID</th>
+        <th>Kullanıcı Adı</th>
+        <th>Yorum</th>
+        <th>Blog</th>
+        <th>Onay Durumu</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.YorumId</td>
+            <td>@item.KullaniciAdi</td>
+            <td>@item.Yorum</td>
+            <td>@item.Blog.Baslik</td>
+            <td>@Html.DisplayFor(modelItem => item.OnayDurum)</td>
+
+            <td><a class="btn btn-danger" href="/Admin/YorumSil/@item.YorumId">Sil</a></td>
+            <td><a class="btn btn-warning" href="/Admin/YorumGetir/@item.YorumId">Güncelle</a></td>
+
+        </tr>
+    }
+
+</table>
+@if (TempData["Message"] != null)
+{
+<div class="alert alert-info">
+    @TempData["Message"]
+</div>}

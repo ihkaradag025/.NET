@@ -1,0 +1,49 @@
+﻿@model IEnumerable<KurumsalSite.Models.Model.Slider>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Slider Resim Listeleme Sayfası</h2>
+
+<p>
+    @*@Html.ActionLink("Yeni Resim Ekle", "Create")*@
+    <a href="/Slider/Create/" class="btn btn-info" >Yeni Resim Ekle</a>
+</p>
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Baslik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Aciklama)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ResimURL)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Baslik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Aciklama)
+        </td>
+        <td>
+            @*@Html.DisplayFor(modelItem => item.ResimURL)*@
+            <img src="@item.ResimURL" height="200" width="200" />
+
+        </td>
+        <td>
+            @Html.ActionLink("Düzenle", "Edit", new { id=item.SliderId }) |
+            @Html.ActionLink("Detay", "Details", new { id=item.SliderId }) |
+            @Html.ActionLink("Sil", "Delete", new { id=item.SliderId })
+        </td>
+    </tr>
+}
+
+</table>
