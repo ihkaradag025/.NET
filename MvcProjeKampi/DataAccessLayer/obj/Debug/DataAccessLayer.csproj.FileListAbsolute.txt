@@ -1,0 +1,15 @@
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

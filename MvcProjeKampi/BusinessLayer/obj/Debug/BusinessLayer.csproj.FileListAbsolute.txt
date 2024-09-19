@@ -1,0 +1,6 @@
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\.NET Öğrenme çalışmaları\GitHub\.NET\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.pdb
