@@ -1,0 +1,35 @@
+﻿@model MVC_StokTakipOtomasyonu.Models.Entity.Kategoriler
+@{
+    ViewBag.Title = "Ekle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Kategori Ekleme Sayfası</h2>
+<div class="container">
+    <form action="/Kategoriler/Ekle2" method="post">
+        <div>
+            <div class="form-group">
+                @Html.LabelFor(x => x.Kategori)
+                @Html.TextBoxFor(x => x.Kategori, new { @class = "form-control" }) @*<input type="text" name="Kategori" class="form-control" />*@
+                @Html.ValidationMessageFor(x => x.Kategori, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(x => x.Aciklama)
+                @Html.TextAreaFor(x => x.Aciklama, new { @class = "form-control" })
+                @*<textarea name="Aciklama" class="form-control"></textarea>*@
+                @Html.ValidationMessageFor(x => x.Aciklama, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                <button class="btn btn-success" style="margin-top:10px">Kaydet</button>
+            </div>
+        </div>
+    </form>
+
+</div>
+@section scriptdanger
+{
+
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+}

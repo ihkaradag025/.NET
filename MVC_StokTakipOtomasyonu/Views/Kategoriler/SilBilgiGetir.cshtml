@@ -1,0 +1,30 @@
+﻿@model MVC_StokTakipOtomasyonu.Models.Entity.Kategoriler
+@{
+    ViewBag.Title = "GuncelleBilgiGetir";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Kategoriyi Silmek İstediğinizden Emin Misiniz?</h2>
+<div class="container">
+    <form action="/Kategoriler/Sil" method="post">
+        @Html.HiddenFor(x => x.ID)
+        <div class="form-group">
+            <b>Kategori</b>
+            @Html.DisplayFor(x => x.Kategori, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <b>Açıklama</b>
+            @Html.DisplayFor(x => x.Aciklama, new { @class = "form-control" })
+        </div>
+        <div>
+            <table>
+                <tr>
+                    <td><button class="btn btn-danger" style="margin-top:10px">Sil</button></td>
+                    <td> <a href="/Kategoriler/Index/" class="btn btn-warning" style="margin-left:10px; margin-top:10px">İptal</a></td>
+                </tr>
+            </table>
+            
+           
+        </div>
+    </form>
+</div>

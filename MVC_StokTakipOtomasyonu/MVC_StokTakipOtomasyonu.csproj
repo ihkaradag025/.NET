@@ -126,10 +126,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ActiveFolder\ActiveClass.cs" />
-    <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\BirimlerController.cs" />
+    <Compile Include="Controllers\KategorilerController.cs" />
+    <Compile Include="Controllers\MarkalarController.cs" />
+    <Compile Include="Controllers\UrunlerController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -176,19 +178,11 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Content\Tema\AnaTema\about.html" />
     <Content Include="Content\Tema\AnaTema\assets\favicon.ico" />
-    <Content Include="Content\Tema\AnaTema\assets\img\about.jpg" />
-    <Content Include="Content\Tema\AnaTema\assets\img\bg.jpg" />
-    <Content Include="Content\Tema\AnaTema\assets\img\intro.jpg" />
-    <Content Include="Content\Tema\AnaTema\assets\img\products-01.jpg" />
-    <Content Include="Content\Tema\AnaTema\assets\img\products-02.jpg" />
-    <Content Include="Content\Tema\AnaTema\assets\img\products-03.jpg" />
+    <Content Include="Content\Tema\AnaTema\css\StyleDanger.css" />
     <Content Include="Content\Tema\AnaTema\css\styles.css" />
     <Content Include="Content\Tema\AnaTema\index.html" />
     <Content Include="Content\Tema\AnaTema\js\scripts.js" />
-    <Content Include="Content\Tema\AnaTema\products.html" />
-    <Content Include="Content\Tema\AnaTema\store.html" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -234,12 +228,19 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Products.cshtml" />
-    <Content Include="Views\Home\Store.cshtml" />
-    <Content Include="Views\Shared\_Header.cshtml" />
-    <Content Include="Views\Shared\_Footer.cshtml" />
+    <Content Include="Views\Kategoriler\Index.cshtml" />
+    <Content Include="Views\Birimler\Index.cshtml" />
+    <Content Include="Views\Kategoriler\Ekle.cshtml" />
+    <Content Include="Views\Birimler\Ekle.cshtml" />
+    <Content Include="Views\Kategoriler\GuncelleBilgiGetir.cshtml" />
+    <Content Include="Views\Birimler\GuncelleBilgiGetir.cshtml" />
+    <Content Include="Views\Kategoriler\SilBilgiGetir.cshtml" />
+    <Content Include="Views\Birimler\SilBilgiGetir.cshtml" />
+    <Content Include="Views\Markalar\Index.cshtml" />
+    <Content Include="Views\Markalar\Ekle.cshtml" />
+    <Content Include="Views\Markalar\GuncelleBilgiGetir.cshtml" />
+    <Content Include="Views\Markalar\SilBilgiGetir.cshtml" />
+    <Content Include="Views\Urunler\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

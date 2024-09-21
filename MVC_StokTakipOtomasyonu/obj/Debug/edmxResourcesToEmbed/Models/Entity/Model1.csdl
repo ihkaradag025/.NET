@@ -28,6 +28,7 @@
     <Property Name="Aciklama" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
     <NavigationProperty Name="Kategoriler" Relationship="Self.FK_Markalar_Kategoriler" FromRole="Markalar" ToRole="Kategoriler" />
     <NavigationProperty Name="Urunler" Relationship="Self.FK_Urunler_Markalar" FromRole="Markalar" ToRole="Urunler" />
+    <Property Name="Marka" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="false" />
   </EntityType>
   <EntityType Name="Musteriler">
     <Key>

@@ -22,6 +22,7 @@
     <EntitySetMapping Name="Markalar">
       <EntityTypeMapping TypeName="MVC_StokTakipModel.Markalar">
         <MappingFragment StoreEntitySet="Markalar">
+          <ScalarProperty Name="Marka" ColumnName="Marka" />
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="KategoriID" ColumnName="KategoriID" />
           <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />

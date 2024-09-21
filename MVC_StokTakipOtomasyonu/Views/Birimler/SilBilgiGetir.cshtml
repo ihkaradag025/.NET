@@ -1,0 +1,30 @@
+﻿@model MVC_StokTakipOtomasyonu.Models.Entity.Birimler
+@{
+    ViewBag.Title = "GuncelleBilgiGetir";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Birim Silmek İstediğinizden Emin Misiniz?</h2>
+<div class="container">
+    <form action="/Birimler/Sil" method="post">
+        @Html.HiddenFor(x => x.ID)
+        <div class="form-group">
+            <b>Birim</b>
+            @Html.DisplayFor(x => x.Birim, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <b>Açıklama</b>
+            @Html.DisplayFor(x => x.Aciklama, new { @class = "form-control" })
+        </div>
+        <div>
+            <table>
+                <tr>
+                    <td><button class="btn btn-danger" style="margin-top:10px">Sil</button></td>
+                    <td> <a href="/Birimler/Index/" class="btn btn-warning" style="margin-left:10px; margin-top:10px">İptal</a></td>
+                </tr>
+            </table>
+
+
+        </div>
+    </form>
+</div>

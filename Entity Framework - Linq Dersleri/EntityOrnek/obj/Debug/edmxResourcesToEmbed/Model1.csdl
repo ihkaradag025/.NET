@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbSinavOgrenciModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TBLDERSLER">
+    <Key>
+      <PropertyRef Name="DERSID" />
+    </Key>
+    <Property Name="DERSID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DERSAD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBLNOTLAR" Relationship="Self.FK_TBLNOTLAR_TBLDERSLER" FromRole="TBLDERSLER" ToRole="TBLNOTLAR" />
+  </EntityType>
+  <EntityType Name="TBLNOTLAR">
+    <Key>
+      <PropertyRef Name="NOTID" />
+    </Key>
+    <Property Name="NOTID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OGRID" Type="Int32" />
+    <Property Name="DERSID" Type="Int32" />
+    <Property Name="SINAV1" Type="Int16" />
+    <Property Name="SINAV2" Type="Int16" />
+    <Property Name="SINAV3" Type="Int16" />
+    <Property Name="ORTALAMA" Type="Decimal" Precision="6" Scale="2" />
+    <Property Name="DURUM" Type="Boolean" />
+    <NavigationProperty Name="TBLDERSLER" Relationship="Self.FK_TBLNOTLAR_TBLDERSLER" FromRole="TBLNOTLAR" ToRole="TBLDERSLER" />
+    <NavigationProperty Name="TBLOGRENCI" Relationship="Self.FK_TBLNOTLAR_TBLOGRENCI" FromRole="TBLNOTLAR" ToRole="TBLOGRENCI" />
+  </EntityType>
+  <EntityType Name="TBLOGRENCI">
+    <Key>
+      <PropertyRef Name="OGRID" />
+    </Key>
+    <Property Name="OGRID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AD" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="SOYAD" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="FOTOGRAF" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBLNOTLAR" Relationship="Self.FK_TBLNOTLAR_TBLOGRENCI" FromRole="TBLOGRENCI" ToRole="TBLNOTLAR" />
+    <Property Name="KLUPID" Type="Int32" />
+    <Property Name="SEHIR" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBLKLUPLER" Relationship="DbSinavOgrenciModel.FK_TBLOGRENCI_TBLKLUPLER" FromRole="TBLOGRENCI" ToRole="TBLKLUPLER" />
+  </EntityType>
+  <Association Name="FK_TBLNOTLAR_TBLDERSLER">
+    <End Role="TBLDERSLER" Type="Self.TBLDERSLER" Multiplicity="0..1" />
+    <End Role="TBLNOTLAR" Type="Self.TBLNOTLAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLDERSLER">
+        <PropertyRef Name="DERSID" />
+      </Principal>
+      <Dependent Role="TBLNOTLAR">
+        <PropertyRef Name="DERSID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLNOTLAR_TBLOGRENCI">
+    <End Role="TBLOGRENCI" Type="Self.TBLOGRENCI" Multiplicity="0..1" />
+    <End Role="TBLNOTLAR" Type="Self.TBLNOTLAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRENCI">
+        <PropertyRef Name="OGRID" />
+      </Principal>
+      <Dependent Role="TBLNOTLAR">
+        <PropertyRef Name="OGRID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DbSinavOgrenciEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TBLDERSLER" EntityType="Self.TBLDERSLER" />
+    <EntitySet Name="TBLNOTLAR" EntityType="Self.TBLNOTLAR" />
+    <EntitySet Name="TBLOGRENCI" EntityType="Self.TBLOGRENCI" />
+    <AssociationSet Name="FK_TBLNOTLAR_TBLDERSLER" Association="Self.FK_TBLNOTLAR_TBLDERSLER">
+      <End Role="TBLDERSLER" EntitySet="TBLDERSLER" />
+      <End Role="TBLNOTLAR" EntitySet="TBLNOTLAR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLNOTLAR_TBLOGRENCI" Association="Self.FK_TBLNOTLAR_TBLOGRENCI">
+      <End Role="TBLOGRENCI" EntitySet="TBLOGRENCI" />
+      <End Role="TBLNOTLAR" EntitySet="TBLNOTLAR" />
+    </AssociationSet>
+    <EntitySet Name="TBLKLUPLER" EntityType="DbSinavOgrenciModel.TBLKLUPLER" />
+    <FunctionImport Name="NOTLISTESI" ReturnType="Collection(DbSinavOgrenciModel.NOTLISTESI_Result)" />
+    <EntitySet Name="sysdiagrams" EntityType="DbSinavOgrenciModel.sysdiagrams" />
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(DbSinavOgrenciModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(DbSinavOgrenciModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+    <AssociationSet Name="FK_TBLOGRENCI_TBLKLUPLER" Association="DbSinavOgrenciModel.FK_TBLOGRENCI_TBLKLUPLER">
+      <End Role="TBLKLUPLER" EntitySet="TBLKLUPLER" />
+      <End Role="TBLOGRENCI" EntitySet="TBLOGRENCI" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="TBLKLUPLER">
+    <Key>
+      <PropertyRef Name="KLUPID" />
+    </Key>
+    <Property Name="KLUPID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KLUPAD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBLOGRENCIs" Relationship="DbSinavOgrenciModel.FK_TBLOGRENCI_TBLKLUPLER" FromRole="TBLKLUPLER" ToRole="TBLOGRENCI" />
+  </EntityType>
+  <ComplexType Name="NOTLISTESI_Result">
+    <Property Type="Int32" Name="NOTID" Nullable="false" />
+    <Property Type="String" Name="AD_SOYAD" Nullable="true" MaxLength="61" />
+    <Property Type="String" Name="DERSAD" Nullable="true" MaxLength="50" />
+    <Property Type="Int16" Name="SINAV1" Nullable="true" />
+    <Property Type="Int16" Name="SINAV2" Nullable="true" />
+    <Property Type="Int16" Name="SINAV3" Nullable="true" />
+    <Property Type="Decimal" Name="ORTALAMA" Nullable="true" Precision="6" Scale="2" />
+    <Property Type="Boolean" Name="DURUM" Nullable="true" />
+  </ComplexType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+  <Association Name="FK_TBLOGRENCI_TBLKLUPLER">
+    <End Type="DbSinavOgrenciModel.TBLKLUPLER" Role="TBLKLUPLER" Multiplicity="0..1" />
+    <End Type="DbSinavOgrenciModel.TBLOGRENCI" Role="TBLOGRENCI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLKLUPLER">
+        <PropertyRef Name="KLUPID" />
+      </Principal>
+      <Dependent Role="TBLOGRENCI">
+        <PropertyRef Name="KLUPID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

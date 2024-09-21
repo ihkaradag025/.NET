@@ -1,0 +1,11 @@
+E:\Murat Yücedağ_ders\YazOkulu\BusinesLogicLayer\obj\Debug\BusinesLogicLayer.csproj.AssemblyReference.cache
+E:\Murat Yücedağ_ders\YazOkulu\BusinesLogicLayer\obj\Debug\BusinesLogicLayer.csproj.CoreCompileInputs.cache
+E:\Murat Yücedağ_ders\YazOkulu\BusinesLogicLayer\bin\Debug\BusinesLogicLayer.dll
+E:\Murat Yücedağ_ders\YazOkulu\BusinesLogicLayer\bin\Debug\BusinesLogicLayer.pdb
+E:\Murat Yücedağ_ders\YazOkulu\BusinesLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Murat Yücedağ_ders\YazOkulu\BusinesLogicLayer\bin\Debug\EntityLayer.dll
+E:\Murat Yücedağ_ders\YazOkulu\BusinesLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Murat Yücedağ_ders\YazOkulu\BusinesLogicLayer\bin\Debug\EntityLayer.pdb
+E:\Murat Yücedağ_ders\YazOkulu\BusinesLogicLayer\obj\Debug\BusinesLogicLayer.csproj.CopyComplete
+E:\Murat Yücedağ_ders\YazOkulu\BusinesLogicLayer\obj\Debug\BusinesLogicLayer.dll
+E:\Murat Yücedağ_ders\YazOkulu\BusinesLogicLayer\obj\Debug\BusinesLogicLayer.pdb

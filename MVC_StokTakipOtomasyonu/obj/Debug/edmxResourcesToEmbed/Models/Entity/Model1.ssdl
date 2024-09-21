@@ -23,6 +23,7 @@
     <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="KategoriID" Type="int" Nullable="false" />
     <Property Name="Aciklama" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="Marka" Type="varchar" MaxLength="250" Nullable="false" />
   </EntityType>
   <EntityType Name="Musteriler">
     <Key>

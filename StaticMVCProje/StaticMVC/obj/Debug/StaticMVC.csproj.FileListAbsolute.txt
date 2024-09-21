@@ -1,0 +1,158 @@
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\StaticMVC.dll.config
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\StaticMVC.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\StaticMVC.pdb
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\csc.exe
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\csc.exe.config
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\csc.rsp
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\csi.exe
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\csi.exe.config
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\csi.rsp
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.AppContext.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Console.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Globalization.Calendars.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.IO.Compression.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Net.Http.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Net.Sockets.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.ValueTuple.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Xml.XPath.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\vbc.exe
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\vbc.exe.config
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\vbc.rsp
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\VBCSCompiler.exe
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Antlr3.Runtime.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Newtonsoft.Json.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Helpers.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Mvc.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Optimization.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Razor.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.WebPages.Deployment.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.WebPages.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.WebPages.Razor.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\WebGrease.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Helpers.xml
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Mvc.xml
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Optimization.xml
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Razor.xml
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.WebPages.xml
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.WebPages.Deployment.xml
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.WebPages.Razor.xml
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Newtonsoft.Json.xml
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Antlr3.Runtime.pdb
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\obj\Debug\StaticMVC.csproj.AssemblyReference.cache
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\obj\Debug\StaticMVC.csproj.CoreCompileInputs.cache
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\obj\Debug\StaticMVC.csproj.CopyComplete
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\obj\Debug\StaticMVC.dll
+E:\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\obj\Debug\StaticMVC.pdb
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\StaticMVC.dll.config
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\StaticMVC.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\StaticMVC.pdb
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\csc.exe
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\csc.exe.config
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\csc.rsp
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\csi.exe
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\csi.exe.config
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\csi.rsp
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.AppContext.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Console.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Globalization.Calendars.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.IO.Compression.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Net.Http.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Net.Sockets.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.ValueTuple.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Xml.XPath.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\vbc.exe
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\vbc.exe.config
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\vbc.rsp
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\VBCSCompiler.exe
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Antlr3.Runtime.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Newtonsoft.Json.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Helpers.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Mvc.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Optimization.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Razor.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.WebPages.Deployment.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.WebPages.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.WebPages.Razor.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\WebGrease.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Helpers.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Mvc.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Optimization.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.Razor.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.WebPages.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.WebPages.Deployment.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\System.Web.WebPages.Razor.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Newtonsoft.Json.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Antlr3.Runtime.pdb
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\obj\Debug\StaticMVC.csproj.AssemblyReference.cache
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\obj\Debug\StaticMVC.csproj.CoreCompileInputs.cache
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\obj\Debug\StaticMVC.csproj.CopyComplete
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\obj\Debug\StaticMVC.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\StaticMVCProje\StaticMVC\obj\Debug\StaticMVC.pdb

@@ -1,0 +1,20 @@
+﻿.button {
+    height: 40px;
+    width: 120px;
+    background-color: #ff6a00;
+    color: white;
+    font-size: 18pt;
+}
+.label {
+   
+    background-color: #4cff00;
+    color: blue;
+    font-size: 12pt;
+}
+.div{
+    background-color:gray;
+    width:500px;
+    height:100px;
+    margin-left:50px;
+    margin-top:50px;
+}

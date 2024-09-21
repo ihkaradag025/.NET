@@ -1,0 +1,22 @@
+E:\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip-adresi_ogren.csproj.AssemblyReference.cache
+E:\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip_adresi_ogren.Form1.resources
+E:\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip_adresi_ogren.Properties.Resources.resources
+E:\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip-adresi_ogren.csproj.GenerateResource.cache
+E:\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip-adresi_ogren.csproj.CoreCompileInputs.cache
+E:\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\bin\Debug\ip-adresi_ogren.exe.config
+E:\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\bin\Debug\ip-adresi_ogren.exe
+E:\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\bin\Debug\ip-adresi_ogren.pdb
+E:\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip-adresi_ogren.exe
+E:\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip-adresi_ogren.pdb
+E:\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip_adresi_ogren.Form2.resources
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\bin\Debug\ip-adresi_ogren.exe.config
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\bin\Debug\ip-adresi_ogren.exe
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\bin\Debug\ip-adresi_ogren.pdb
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip-adresi_ogren.csproj.AssemblyReference.cache
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip_adresi_ogren.Form1.resources
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip_adresi_ogren.Form2.resources
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip_adresi_ogren.Properties.Resources.resources
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip-adresi_ogren.csproj.GenerateResource.cache
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip-adresi_ogren.csproj.CoreCompileInputs.cache
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip-adresi_ogren.exe
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\ip adresi öğrenme\ip-adresi_ogren\obj\Debug\ip-adresi_ogren.pdb

@@ -1,0 +1,112 @@
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.Form1.resources
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.Properties.Resources.resources
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.csproj.GenerateResource.cache
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.csproj.CoreCompileInputs.cache
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityOrnek.exe.config
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityOrnek.exe
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityOrnek.pdb
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityFramework.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityFramework.SqlServer.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Data.v21.2.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityFramework.xml
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityFramework.SqlServer.xml
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Data.v21.2.xml
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.csproj.CopyComplete
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.exe
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.pdb
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.csproj.AssemblyReference.cache
+E:\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.Form2.resources
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityOrnek.exe.config
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityOrnek.exe
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityOrnek.pdb
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityFramework.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityFramework.SqlServer.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Data.v21.2.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityFramework.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\EntityFramework.SqlServer.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Data.v21.2.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.csproj.AssemblyReference.cache
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.Form1.resources
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.Form2.resources
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.Properties.Resources.resources
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.csproj.GenerateResource.cache
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.csproj.CoreCompileInputs.cache
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.csproj.CopyComplete
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.exe
+E:\.NET Öğrenme çalışmaları\Murat Yücedağ_ders\Entity Framework - Linq Dersleri\EntityOrnek\obj\Debug\EntityOrnek.pdb

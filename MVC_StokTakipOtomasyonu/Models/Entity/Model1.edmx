@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="MVC_StokTakipModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+    <Schema Namespace="MVC_StokTakipModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="Birimler">
           <Key>
             <PropertyRef Name="ID" />
@@ -28,6 +28,7 @@
           <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="KategoriID" Type="int" Nullable="false" />
           <Property Name="Aciklama" Type="varchar" MaxLength="500" Nullable="false" />
+          <Property Name="Marka" Type="varchar" MaxLength="250" Nullable="false" />
         </EntityType>
         <EntityType Name="Musteriler">
           <Key>
@@ -198,8 +199,7 @@
             <End Role="Urunler" EntitySet="Urunler" />
           </AssociationSet>
         </EntityContainer>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="MVC_StokTakipModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -231,6 +231,7 @@
           <Property Name="Aciklama" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
           <NavigationProperty Name="Kategoriler" Relationship="Self.FK_Markalar_Kategoriler" FromRole="Markalar" ToRole="Kategoriler" />
           <NavigationProperty Name="Urunler" Relationship="Self.FK_Urunler_Markalar" FromRole="Markalar" ToRole="Urunler" />
+          <Property Name="Marka" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="false" />
         </EntityType>
         <EntityType Name="Musteriler">
           <Key>
@@ -435,6 +436,7 @@
           <EntitySetMapping Name="Markalar">
             <EntityTypeMapping TypeName="MVC_StokTakipModel.Markalar">
               <MappingFragment StoreEntitySet="Markalar">
+                <ScalarProperty Name="Marka" ColumnName="Marka" />
                 <ScalarProperty Name="ID" ColumnName="ID" />
                 <ScalarProperty Name="KategoriID" ColumnName="KategoriID" />
                 <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
